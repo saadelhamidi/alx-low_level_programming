@@ -1,22 +1,31 @@
 #include "main.h"
+
 /**
- * _strcmp - compare string values
- * @s1: input value
- * @s2: input value
- *
- * Return: s1[i] - s2[i]
- */
-int _strcmp(char *s1, char *s2)
+ * _strstr - finds the first occurrence of the substring.
+ * needle in the string haystack.
+ * @haystack: entire string.
+ * @needle: substring.
+ * Return: pointer to the beginning of located substring or
+ * NULL if the substring is not found.
+*/
+char *_strstr(char *haystack, char *needle)
 {
-int i;
-i = 0;
-while (s1[i] != '\0' && s2[i] != '\0')
-{
-if (s1[i] != s2[i])
-{
-return (s1[i] - s2[i]);
-}
-i++;
-}
-return (0);
+	char *bhaystack;
+	char *pneedle;
+
+	while (*haystack != '\0')
+	{
+		bhaystack = haystack;
+		pneedle = needle;
+
+		while (*haystack != '\0' && *pneedle != '\0' && *haystack == *pneedle)
+		{
+			haystack++;
+			pneedle++;
+		}
+		if (!*pneedle)
+			return (bhaystack);
+		haystack = bhaystack + 1;
+	}
+	return (0);
 }
