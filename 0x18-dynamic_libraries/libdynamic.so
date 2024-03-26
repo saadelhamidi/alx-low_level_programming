@@ -39,7 +39,7 @@
 
 
   <script type="application/json" id="client-env">{"locale":"en","featureFlags":["code_vulnerability_scanning","copilot_conversational_ux_history_refs","copilot_smell_icebreaker_ux","copilot_implicit_context","failbot_handle_non_errors","geojson_azure_maps","image_metric_tracking","marketing_forms_api_integration_contact_request","marketing_pages_search_explore_provider","turbo_experiment_risky","sample_network_conn_type","no_character_key_shortcuts_in_inputs","react_start_transition_for_navigations","custom_inp","remove_child_patch","site_features_copilot_cli_ga","copilot_code_chat_diff_header_button"]}</script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-c3a4dc56fecc.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/wp-runtime-72d7b9469cb5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_dompurify_dist_purify_js-6890e890956f.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_stacktrace-parser_dist_stack-trace-parser_esm_js-node_modules_github_bro-a4c183-79f9611c275b.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_oddbird_popover-polyfill_dist_popover_js-7bd350d761f4.js"></script>
@@ -54,7 +54,7 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_filter-input-element_dist_index_js-node_modules_github_remote-inp-b7d8f4-654130b7cde5.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_file-attachment-element_dist_index_js-node_modules_primer_view-co-3959a9-68b3d6c8feb2.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/github-elements-369bd99876f6.js"></script>
-<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-fb4b8d40f206.js"></script>
+<script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/element-registry-f00a3bf302c1.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_github_mini-throttle_dist_index_js-node_modules_github_alive-client_dist-bf5aa2-5a0e291a0298.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_lit-html_lit-html_js-5b376145beff.js"></script>
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/vendors-node_modules_morphdom_dist_morphdom-esm_js-5bff297a06de.js"></script>
@@ -111,7 +111,7 @@
   <meta name="current-catalog-service-hash" content="82c569b93da5c18ed649ebd4c2c79437db4611a6a1373e805a3cb001c64130b7">
 
 
-  <meta name="request-id" content="E7F6:5E6CA:E69E:14284:6602A12A" data-pjax-transient="true"/><meta name="html-safe-nonce" content="f62709236346d479ada61d498cff6f915c4e55cf1da2a183a9d2611dc85f5c7f" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFN0Y2OjVFNkNBOkU2OUU6MTQyODQ6NjYwMkExMkEiLCJ2aXNpdG9yX2lkIjoiMzg4MDM4MjA3MTc5MjkwMjQ0MiIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="e988f960904ba684ae45cdc25f7edfce72a7add46bc8b39f51582727f8b9adb4" data-pjax-transient="true"/>
+  <meta name="request-id" content="D686:5E6CA:BB4D1:117C87:6602A5C8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="db9745a3f8e1149f3638834725bb6f363ed58d9c603f4332357f53fba85d591d" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJENjg2OjVFNkNBOkJCNEQxOjExN0M4Nzo2NjAyQTVDOCIsInZpc2l0b3JfaWQiOiI1Njc3Njg0NTIwNjE1MzIzMDgwIiwicmVnaW9uX2VkZ2UiOiJpYWQiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true"/><meta name="visitor-hmac" content="f2baacff5d297b2ed68c413b02fcfc3998df6e0b914908a56110605a29056a60" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:627534744" data-turbo-transient>
@@ -163,10 +163,10 @@
         <meta name="expected-hostname" content="github.com">
 
 
-  <meta http-equiv="x-pjax-version" content="36d26ff729ccd0451c4f87342473edf4f4dfa31e9e2adf6292489de1cdd087a0" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-version" content="be4975c9fc85a16e0b77db6eb11c42df5194a47e109496452ed66941ea8cab2c" data-turbo-track="reload">
   <meta http-equiv="x-pjax-csp-version" content="5dcfbec3488c5fd5a334e287ce6a17058b7d4beb91db2d4d184e4d55bbf1d7d7" data-turbo-track="reload">
   <meta http-equiv="x-pjax-css-version" content="c652628a56d6ebd9e6374f6352ae3b2e3718598724a1b0139486b5c791b30c05" data-turbo-track="reload">
-  <meta http-equiv="x-pjax-js-version" content="43aea0ffac4b9a50b8b462ec6dac5df83075a3a3ca173bf44b479ebda34abd4a" data-turbo-track="reload">
+  <meta http-equiv="x-pjax-js-version" content="98994f0c7719d2f3cf57d04e301e799c634d4fe3e3c53d5e9bbe895365bc4a12" data-turbo-track="reload">
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
@@ -628,7 +628,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:sadatmisr/alx" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="6VUsuKrxmUuMT0T3uBzGzxAu46E0GncKX2YT3Yc3VOu5XFd81S7A4Re7V8em3hw3OuRSnqye35EWAXv4W0DWeA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="sadatmisr/alx" data-current-org="" data-current-owner="sadatmisr" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=S8OC7yyHsn%2BHAeT1lPj9BHVfXOtq3D8M6QaBQUcchVLgoNKJrt4dI2ZHISrd8G2g%2Fw6jgslBuhNQksDkieQ7I1tH%2FWZNni60jCXcmT3lLjLL85fKg%2BSLWNXHD6tDnMVNJdSOVuzexGQJW5AFmrbXkz9jy1nLYx1dAAJUkXXbe3aThWxo0IZ3ssQgDqaobqGLWl9xtAtNQuAAYZGdJUC97ZfOH1G2trQtsA0wf4P7IJNvf94lzoMspO6OBadkoHTIKo6p0Sn%2FYdGrerX3Uqfezwb%2FamNVwZY7Gv%2FrY2n62PtfbhyAbEgPAku%2FiiHKJAMvBVt0xdS%2BtsRKIdB2FnvDgKVg5j6LjN0Uoh4RTl5WC1qn6iDWBY8yJTE68uRmHg1ONEkbSexszLP1zh2vteWVErqZx68sdnW2zpEuF4H5XJoEfa2oaNNhVywfDLv9pgplEWRB9I0PW5W0RtGvn1vkJyih1cKGBdhkqRAYufSk8pOSgAMTUOGkUn26H0QwqWCXXRFtlPDpQVtQ%2F%2BxDPSCYxFTdoOR8f4GeO2KRyQaDjw6gSzI6Cdvf8%2BJ2VNB2O0eMtyw3BKx82nqkZPB4UP6PnQSCnq8DOPa%2FQ%2Bw75OGtFqjaYhKPg2E%3D--e5Uy8b1wasfvmdJx--p9yQqQ78lVntC9s78seNow%3D%3D&quot; />">
+<qbsearch-input class="search-input" data-scope="repo:sadatmisr/alx" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="IeU62VCGEOm5kErDsiTFTkuhq0Tk3UWiKKyQRNRH5b7If0gGvhyR1q6ahylT5BTnirUyXAoCHobICMbJFm2mJA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="sadatmisr/alx" data-current-org="" data-current-owner="sadatmisr" data-logged-in="false" data-copilot-chat-enabled="false" data-blackbird-indexed-repo-csrf="<esi:include src=&quot;/_esi/rails_csrf_token_form_hidden?r=Px%2B9ZwZeVp1IwxJSq6ggE%2F6iQD7NVclJpv3JSHhsYBRsnvf%2B%2FP%2F88sV8tXyC4S9h%2B3GNU3AMt56idEYkSXp6oNwzFvxVGEwl39%2FOqc2mlKVz%2B7drCEIk6dB7Krjw4h2hJ0U%2FpFtp9BUSWJRdOqlvy7blAPl%2Fxb80hSqlG6E6qWzncw%2Fc5zYpusC4ycum6dluiSY8Vc0Llk9w4qxbSYikir3JEB2%2FkEaTIMy0%2Fg%2FAvzNBZ96E8J0r48na4T%2Biu%2BzFAxzoE4Z%2FwWPmaTYxZt5g%2B4TE%2B%2Br4vq4bW0fj2FPR4bc%2Bjfd4HumDPwFjn1g%2B8IxRGZC4%2BLlfZTzAu4WdSM9FPVaO2OckD6JMcEQY%2BvmOq0quJAbROMvRtkglMQAW5GSWw1VbzC%2FWEe5mdOW8VXnY3SKVLCcGmY0gGgYLoWO3KacTsNBa5scz8FOGKL0PzBjCAxSEyf2zVOcQNIADDuNpYW0p4Sf%2B8ZxkoYO40I5kKn%2F6XyaR7mo8asK8oLUENtgOcc%2FnRlpI9xYskCi1EDtRu7ltk7RwAkgUT2i2KRZVNr7lUEbWyBWZqxI6TVo1J5yAC%2BHOIdOjDVzaFd2IcxzgVq03FUEAb1nU2d4LyQTyzGcp29D2iwk%3D--npI2MDI9oSXgXavt--Esb2RdCUrhv4AaDjlHKQrw%3D%3D&quot; />">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -690,7 +690,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-20020a14-b7d0-4e8d-b414-09591c98819e" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-8e2fce5b-eaf4-4b16-a8b5-2ac700a3d1d2" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -921,7 +921,7 @@
                   id="query-builder-test-results"
                 ></ul>
         </div>
-      <div class="FormControl-inlineValidation" id="validation-20020a14-b7d0-4e8d-b414-09591c98819e" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-8e2fce5b-eaf4-4b16-a8b5-2ac700a3d1d2" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -962,7 +962,7 @@
   </div>
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="C20+fgB98Bk3XvmCkje/2LkOYeklKZoaJsRDXDjbNFwUQwZYbVaXgOHe0YzI1y8uwkL6Yymr6AJ/V0bzu05P7A==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="AX1H4dEozbJCRbAfQ85WFNREXuGnNM7PzUAW6lAP3NzFQGy0Rz0SQVA+JRtUmdZj87g1iylwyYOGHarZMml+wg==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -999,7 +999,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="EkSsDq2jlb7KmrtqUy5y5dzom0f++qH7/KGJVuL5SR2VmfJ0XE5fM79MtnkCquyHDooH+BwtBzIh9+1NIiZ9xg==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Eq6sWBlCnywBvpBP30Vkg017zhXdCs3Kn4mLXaWKEjf0CI+nb3Z3J7n6tm1H0mDSH9ZLGQyfDcNm8ZA3n/i/zA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -1017,7 +1017,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="nzURXhDAazWIeNlRDoWTzbMjIe1nP9spFVGIFsLukXF6UMYEQEbsipLfMD3s75Kjj9d93HW7mzR3TOW3liZKjA==" />
+              <input type="hidden" data-csrf="true" value="jV31ctAjAuz8yayT9LtBpwIlPrg+8X2evTlJkNhbVJLvLgo7ntv6w2pRz8WF3q5ThbU0K1b7ocbxrd32+aNjPA==" />
             </auto-check>
           </div>
 
@@ -1054,7 +1054,7 @@
 </dialog></dialog-helper>
     </custom-scopes>
   </div>
-</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="+HRyejXtHcnavaij4KtblTwGITqEGWFj6WMDGu0um9P6vg7bcQxkqeU/sYArgDzhjWxf7VsM4MKiEfKHW62IsQ==" />
+</qbsearch-input><input type="hidden" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" value="Tv9w8nEsmgzrbgwY9bPt97D95UZLqCHRdqXQP4JQyNqP3m2NyJEHGSzudx9EUqFmgns8/jB0I3lCCavnRlkRTA==" />
 
 
           <div class="position-relative mr-lg-3 d-lg-inline-block">
@@ -1088,10 +1088,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-5808f45c-94cd-4ada-a36a-2c5f8740115d" aria-labelledby="tooltip-12bba620-b98c-4ff5-83a3-7ca0136ea454" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-ab041b25-923a-4ec0-a414-82eb2741f742" aria-labelledby="tooltip-7f1dc2aa-2b00-49ed-8217-0e7ee277ffb1" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-12bba620-b98c-4ff5-83a3-7ca0136ea454" for="icon-button-5808f45c-94cd-4ada-a36a-2c5f8740115d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-7f1dc2aa-2b00-49ed-8217-0e7ee277ffb1" for="icon-button-ab041b25-923a-4ec0-a414-82eb2741f742" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -1318,21 +1318,21 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 pr-md-4 pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-button" popovertarget="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-overlay" aria-controls="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-list" aria-haspopup="true" aria-labelledby="tooltip-44d815c0-5f90-43b9-9b19-5d9b2133755c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-button" popovertarget="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-overlay" aria-controls="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-list" aria-haspopup="true" aria-labelledby="tooltip-ea27eb67-fd85-40f2-88fe-b7695d60c69c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-44d815c0-5f90-43b9-9b19-5d9b2133755c" for="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-ea27eb67-fd85-40f2-88fe-b7695d60c69c" for="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position id="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-overlay" anchor="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position id="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-overlay" anchor="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-button" id="action-menu-81bda720-21d2-410b-9bc7-dfcda3cc9d8b-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-button" id="action-menu-3dd3c34b-c49f-4b24-9992-034093b947b9-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-471b8a59-22e8-46be-9b93-b4404a0ed456" href="/sadatmisr/alx" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-de2c4e7a-8d59-4015-818d-999e5eb185bc" href="/sadatmisr/alx" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1347,7 +1347,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-544d9cb5-d865-4129-b459-29d94a2ce890" href="/sadatmisr/alx/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-dcb1ce76-5a00-4ba5-8012-edee2eb3db43" href="/sadatmisr/alx/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1362,7 +1362,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-00056e8e-b8f4-4040-979e-3fa31d7184b7" href="/sadatmisr/alx/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-f6755b32-7bf7-44c5-9484-edc775523761" href="/sadatmisr/alx/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1377,7 +1377,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-eb3bdc6d-5492-4598-b0df-ab34c7cfbaeb" href="/sadatmisr/alx/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9d149c46-8050-4534-ad5e-e84a31e7af90" href="/sadatmisr/alx/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1392,7 +1392,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-7f3e02cd-f7ea-4e6b-b24f-bf90cf843175" href="/sadatmisr/alx/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-12357c41-d3bb-414b-826d-0e4cbdb5c110" href="/sadatmisr/alx/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
     <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
@@ -1407,7 +1407,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i5security-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-a79f057e-c0f0-4d4f-8d6d-a8e29ea91b14" href="/sadatmisr/alx/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-8c4c24d2-6653-4a06-b495-60a5d8130eb2" href="/sadatmisr/alx/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1422,7 +1422,7 @@
 </li>
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
-    <a tabindex="-1" id="item-71dda949-a727-4c97-88b0-2edc72caee8e" href="/sadatmisr/alx/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c67c4f23-6102-49ec-bc11-222ad8299a7c" href="/sadatmisr/alx/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1474,7 +1474,7 @@
   data-alternate="false"
 >
   
-  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"0x18 C - Dynamic libraries":{"items":[{"name":"libdynamic.so","path":"0x18 C - Dynamic libraries/libdynamic.so","contentType":"file"},{"name":"libgiga.so","path":"0x18 C - Dynamic libraries/libgiga.so","contentType":"file"}],"totalCount":2},"":{"items":[{"name":"0x07-python-test_driven_development","path":"0x07-python-test_driven_development","contentType":"directory"},{"name":"0x0A-python-inheritance","path":"0x0A-python-inheritance","contentType":"directory"},{"name":"0x0C-python-almost_a_circle","path":"0x0C-python-almost_a_circle","contentType":"directory"},{"name":"0x17 C - Doubly linked lists","path":"0x17 C - Doubly linked lists","contentType":"directory"},{"name":"0x18 C - Dynamic libraries","path":"0x18 C - Dynamic libraries","contentType":"directory"},{"name":"100-realloc.c","path":"100-realloc.c","contentType":"file"},{"name":"101-mul.c","path":"101-mul.c","contentType":"file"},{"name":"101-password","path":"101-password","contentType":"file"},{"name":"2-calloc.c","path":"2-calloc.c","contentType":"file"},{"name":"3-array_range.c","path":"3-array_range.c","contentType":"file"},{"name":"_putchar.c","path":"_putchar.c","contentType":"file"},{"name":"main.h","path":"main.h","contentType":"file"}],"totalCount":12}},"fileTreeProcessingTime":3.1010310000000003,"foldersToFetch":[],"repo":{"id":627534744,"defaultBranch":"main","name":"alx","ownerLogin":"sadatmisr","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-04-13T17:04:55.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/130691074?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1695082556.0","canEdit":false,"refType":"branch","currentOid":"907071687d98b6e848fd75176358115c4081617f"},"path":"0x18 C - Dynamic libraries/libdynamic.so","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/sadatmisr/alx/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"libdynamic.so","displayUrl":"https://github.com/sadatmisr/alx/blob/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so?raw=true","headerInfo":{"blobSize":"17 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"9ec86e4","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fsadatmisr%2Falx%2Fblob%2Fmain%2F0x18%2520C%2520-%2520Dynamic%2520libraries%2Flibdynamic.so","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/sadatmisr/alx/blob/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/sadatmisr/alx/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/sadatmisr/alx/raw/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/sadatmisr/alx/branches":{"post":"fQG02gI98piHxJBkl8oHj86wJlTXB69gxISPIDQrvQ01by7BirCfOxEKpsqMIsoKYg8b9rd_p5zSDaCHUSk-6A"},"/repos/preferences":{"post":"n2SeNOA0EUToOSfrnr5Ixt4N8g85X1L2ohoPBNeRTWDf8psV-KQOuiVP6eFEODVBmt5WjBu-xCa0CIZBDob6gA"}}},"title":"alx/0x18 C - Dynamic libraries/libdynamic.so at main · sadatmisr/alx","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false,"codeview_firefox_inert":true,"overview_async_data_channel":false}}}</script>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"allShortcutsEnabled":false,"fileTree":{"0x18 C - Dynamic libraries":{"items":[{"name":"libdynamic.so","path":"0x18 C - Dynamic libraries/libdynamic.so","contentType":"file"},{"name":"libgiga.so","path":"0x18 C - Dynamic libraries/libgiga.so","contentType":"file"}],"totalCount":2},"":{"items":[{"name":"0x07-python-test_driven_development","path":"0x07-python-test_driven_development","contentType":"directory"},{"name":"0x0A-python-inheritance","path":"0x0A-python-inheritance","contentType":"directory"},{"name":"0x0C-python-almost_a_circle","path":"0x0C-python-almost_a_circle","contentType":"directory"},{"name":"0x17 C - Doubly linked lists","path":"0x17 C - Doubly linked lists","contentType":"directory"},{"name":"0x18 C - Dynamic libraries","path":"0x18 C - Dynamic libraries","contentType":"directory"},{"name":"100-realloc.c","path":"100-realloc.c","contentType":"file"},{"name":"101-mul.c","path":"101-mul.c","contentType":"file"},{"name":"101-password","path":"101-password","contentType":"file"},{"name":"2-calloc.c","path":"2-calloc.c","contentType":"file"},{"name":"3-array_range.c","path":"3-array_range.c","contentType":"file"},{"name":"_putchar.c","path":"_putchar.c","contentType":"file"},{"name":"main.h","path":"main.h","contentType":"file"}],"totalCount":12}},"fileTreeProcessingTime":3.9117709999999994,"foldersToFetch":[],"repo":{"id":627534744,"defaultBranch":"main","name":"alx","ownerLogin":"sadatmisr","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2023-04-13T17:04:55.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/130691074?v=4","public":true,"private":false,"isOrgOwned":false},"codeLineWrapEnabled":false,"symbolsExpanded":false,"treeExpanded":true,"refInfo":{"name":"main","listCacheKey":"v0:1695082556.0","canEdit":false,"refType":"branch","currentOid":"907071687d98b6e848fd75176358115c4081617f"},"path":"0x18 C - Dynamic libraries/libdynamic.so","currentUser":null,"blob":{"rawLines":null,"stylingDirectives":null,"colorizedLines":null,"csv":null,"csvError":null,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/sadatmisr/alx/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"libdynamic.so","displayUrl":"https://github.com/sadatmisr/alx/blob/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so?raw=true","headerInfo":{"blobSize":"17 KB","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":"https://desktop.github.com","isGitLfs":false,"onBranch":true,"shortPath":"9ec86e4","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fsadatmisr%2Falx%2Fblob%2Fmain%2F0x18%2520C%2520-%2520Dynamic%2520libraries%2Flibdynamic.so","isCSV":false,"isRichtext":false,"toc":null,"lineInfo":{"truncatedLoc":null,"truncatedSloc":null},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"issueTemplate":null,"discussionTemplate":null,"language":null,"languageID":null,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/sadatmisr/alx/blob/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/sadatmisr/alx/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/sadatmisr/alx/raw/main/0x18%20C%20-%20Dynamic%20libraries/libdynamic.so","renderImageOrRaw":true,"richText":null,"renderedFileInfo":null,"shortPath":null,"symbolsEnabled":true,"tabSize":8,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":false,"workflowRedirectUrl":null,"symbols":null},"copilotInfo":null,"copilotAccessAllowed":false,"csrf_tokens":{"/sadatmisr/alx/branches":{"post":"ESW6TmfXtSyUsL_0NB7wyaOcmhal5PQ2rzmY0efVEcQVmQj7KWM7g8qm1CvwDaE6Py7odZasMcstwjWyT3quGA"},"/repos/preferences":{"post":"ggrfZeOYA4YposBRLzVbwTUFAeOvvnnuH1LzNfBpcf8bzfMKaibnM1fuM30pLEPlauCW6v7ot9MMEs-Z3cSx6w"}}},"title":"alx/0x18 C - Dynamic libraries/libdynamic.so at main · sadatmisr/alx","appPayload":{"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-a007d7f370d6.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-d0f0ff069004.js","githubDevUrl":null,"enabled_features":{"code_nav_ui_events":false,"copilot_conversational_ux":false,"react_blob_overlay":false,"copilot_conversational_ux_embedding_update":false,"copilot_popover_file_editor_header":false,"copilot_smell_icebreaker_ux":true,"copilot_workspace":false,"codeview_firefox_inert":true,"overview_async_data_channel":false}}}</script>
   <div data-target="react-app.reactRoot"></div>
 </react-app>
 </turbo-frame>
